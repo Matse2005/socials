@@ -1,3 +1,2 @@
-# PHP Boilerplate
-
-Inspired by [Vincent Lammens](https://vincentlammens.be)
+# My Socials
+Rename example.htaccess to .htaccess
